@@ -77,6 +77,7 @@ Graphical Music Programming: Max/MSP + Pure Data
 Δικαίως, η μουσική μέσω υπολογιστή θεωρείται μια μορφή τέχνης, καθώς ο υπολογιστής ως εργαλείο δύναται να επεκτείνει την δημιουργικότητα, δεν την περιορίζει. Με τις εξελίξεις αυτές όμως, τίθενται και κάποια βασικά ζητήματα/ερωτήματα, όσον αφορά στην ίδια τη φύση της μουσικής  και τον τρόπο δημιουργίας της. Ο παραδοσιακός διαχωρισμός μεταξύ συνθέτη, οργανοπαίκτη και οργανοποιού έχει πάψει να υφίσταται, και η μουσική μέσω υπολογιστή δεν είναι πια κάτι το αμφιλεγόμενο, τουναντίον θεσμοθετείται ολοένα και περισσότερο.
 
 # ΒΙΒΛΙΟΓΡΑΦΙΑ
+[^1]: source
 Csound (sel 21): Pope, S. T. 1993. ‘Machine Tongues XV: Three Packages for Software Sound Synthesis’, Computer Music Journal, 17(2):25-54.
 [1] W. Schottstaedt, Common Lisp Music Documentation (1992), σελ. 19
 [2] Ge Wang, The ChucK Audio Programming Language: A Strongly-timed and On-the-fly
